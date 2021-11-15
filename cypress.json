@@ -1,0 +1,18 @@
+{
+    "baseUrl" : "http://automationpractice.com/index.php",
+    "experimentalStudio": true,
+    "experimentalSessionSupport" : true,
+    "video" : true,
+    "screenshotsFolder":"cypress/videos",
+    "env":{
+        "username":"Chauncey85@yahoo.com",
+        "password":"Hello1234"
+    },
+    "retries": {
+    "runMode": 2,
+        "openMode": 0
+      }
+   
+   
+   
+}
